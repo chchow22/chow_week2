@@ -1,0 +1,78 @@
+#email {
+	position: relative;
+	width: 70%;
+	height: 30px;
+	left: 14%;
+	margin-bottom: 10px;
+	font-size: 17px;
+}
+
+#password {
+	position: relative;
+	width: 70%;
+	height: 30px;
+	left: 14%;
+	font-size: 17px;
+
+
+}
+#signin {
+	position: relative;
+	background-color: black;
+	color: white;
+	text-transform: uppercase;
+	display: block;
+	width: 70%;
+	height: 55px;
+	margin-top: 30px;
+	left: 14%;
+	font-size: 17px;
+}
+
+#body {
+	background-color: black;
+}
+
+#container {
+	position: static;
+	background-color: white;
+	width: 40%;
+	margin: 0 auto;
+	height: 600px;
+}
+
+#dash {
+	position: relative;
+	color: gray;
+	width: 30%;
+	text-align: center;
+	left: 44%;
+}
+
+#welcome {
+	position: relative;
+	color: gray;
+	width: 30%;
+	text-align: center;
+	left: 35%;
+}
+
+#trouble {
+	color: lightgray;
+}
+
+#end {
+	margin: 0 auto;
+	width: 50%;
+	margin-top: 50px;
+}
+h1 {
+	position: relative;
+	color: black;
+	padding-top: 80px;
+	padding-left: 32%;
+}
+
+a {
+	color: lightgray;
+}
